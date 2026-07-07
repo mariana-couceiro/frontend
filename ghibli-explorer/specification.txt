@@ -1,0 +1,30 @@
+SPECIFICATION
+
+1. 10 tags HTML utilizadas
+
+- <html>
+- <head>
+- <body>
+- <nav>
+- <div>
+- <img>
+- <a>
+- <h1>
+- <p>
+- <footer>
+
+2. 5 propriedades CSS utilizadas
+
+- background-color
+- color
+- display
+- border-radius
+- box-shadow
+
+3. Utilização de JavaScript
+
+O JavaScript foi utilizado para criar o quiz interativo, permitindo ao utilizador responder às perguntas e visualizar o resultado final.
+
+4. Componentes Bootstrap utilizados
+
+Foi utilizado o Bootstrap para criar a barra de navegação responsiva (Navbar), os cartões (Cards), os botões (Buttons), o sistema de grelha (Container, Row e Colunas) e o layout responsivo da página.
